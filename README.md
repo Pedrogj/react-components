@@ -4,4 +4,4 @@
 
 # Control Props
 
-# State initializer, Function Child
+# State initializer, Function Child.
